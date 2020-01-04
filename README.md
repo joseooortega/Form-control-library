@@ -23,5 +23,3 @@ The library will filter the input value with regex depending on the type attribu
   - text -> Allowed letters and numbers.
   - email -> Allowed valid emails (some@some.some)
   - password -> Allowed only passwords that contain almost: one number, one lowercase letter, one uppercase letter and one special        character
-
-More input types will be uploaded in the future.
